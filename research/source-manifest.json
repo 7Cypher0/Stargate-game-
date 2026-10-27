@@ -1,0 +1,35 @@
+
+{
+  "asset_id": "TERRAIN_STONE_001",
+  "asset_name": "Replace with exact source asset name",
+  "category": "terrain",
+  "source_repository": "https://github.com/OWNER/REPOSITORY",
+  "source_asset_url": "https://replace-with-exact-asset-page",
+  "creator": "Record the original creator",
+  "download_date": null,
+  "license": {
+    "spdx": "UNVERIFIED",
+    "license_url": "",
+    "evidence_url": "",
+    "attribution_required": "unknown",
+    "commercial_use": "unknown",
+    "redistribution_allowed": "unknown",
+    "review_status": "RESEARCH_ONLY"
+  },
+  "source_files": [],
+  "output_files": [],
+  "target_formats": [
+    "BLEND",
+    "GLB"
+  ],
+  "target_engines": [
+    "Blender",
+    "Unity",
+    "Godot",
+    "Browser"
+  ],
+  "modifications": [],
+  "dependencies": [],
+  "attribution_text": "",
+  "notes": "Verify the exact source file and license before shipping."
+}
